@@ -1,4 +1,6 @@
 # Feature: Added multiply and divide functions
+# Feature: Added power and square_root functions
+
 
 """
 Calculator module
